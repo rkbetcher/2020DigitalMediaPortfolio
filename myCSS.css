@@ -61,3 +61,4 @@ a:hover {
 a:active {
     color: #CDFFE0;
 }
+a[href^="mailto"] { color: #CC8FC1; }
